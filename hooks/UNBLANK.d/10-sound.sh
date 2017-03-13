@@ -1,0 +1,1 @@
+../LOCK.d/10-sound.sh
